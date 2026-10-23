@@ -1,4 +1,4 @@
-# Q1 — Java CI/CD using Jenkins Freestyle, GitHub and Maven
+# Q1 Java CI/CD using Jenkins Freestyle, GitHub and Maven
 
 ## Files
 - `src/main/java/App.java`: Java application
